@@ -1,0 +1,23 @@
+.menu {
+    width: 100%;
+    height: 70px;
+    background-color: white;
+}
+
+.menu_container {
+    width: 45%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    column-gap: 20px;
+
+}
+
+.menu_logo img {
+    width: 45px;
+}
+
+.menu_link {}
+
+.menu_link-text {}
