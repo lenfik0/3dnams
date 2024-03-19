@@ -2,6 +2,7 @@ function Other() {
     return (
         <div>
             Other products
+            Другие
         </div>
     )
 }
